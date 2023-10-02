@@ -1,5 +1,6 @@
 # Coral larval settlement induction using tissue-associated and exuded coralline algae metabolites and the identification of putative chemical cues
-### [DOI](https://doi.org/10.1098/rspb.2023.1476)
+### [Paper DOI](https://doi.org/10.1098/rspb.2023.1476) [![DOI](https://zenodo.org/badge/599229933.svg)](https://zenodo.org/badge/latestdoi/599229933)
+
 
 ## Repository Contents
 ### /Code
