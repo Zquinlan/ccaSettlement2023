@@ -1,0 +1,19 @@
+metabolite_pool,Coral_species,lhs,p.value
+Exometabolites,Acropora palmata,Hydrolithon borgesenii,0.0022029151534281866
+Exometabolites,Acropora palmata,Paragoniolithon solubile,0.0414039074585566
+Exometabolites,Acropora palmata,Porolithon pachydernum,0.12848443341322335
+Tissue metabolites,Acropora palmata,Hydrolithon borgesenii,0.952284475869316
+Tissue metabolites,Acropora palmata,Paragoniolithon solubile,0.1364206765384196
+Tissue metabolites,Acropora palmata,Porolithon pachydernum,0.0067689013734126835
+Exometabolites,Diploria labyrinthiformis,Hydrolithon borgesenii,0.9979621804766114
+Exometabolites,Diploria labyrinthiformis,Paragoniolithon solubile,0.09764596315475271
+Exometabolites,Diploria labyrinthiformis,Porolithon pachydernum,0.6603640744312335
+Tissue metabolites,Diploria labyrinthiformis,Hydrolithon borgesenii,0.15993326080221903
+Tissue metabolites,Diploria labyrinthiformis,Paragoniolithon solubile,0.006987514349279578
+Tissue metabolites,Diploria labyrinthiformis,Porolithon pachydernum,0.8362860453928761
+Exometabolites,Montastrea faveolata,Hydrolithon borgesenii,0.0011894406424727277
+Exometabolites,Montastrea faveolata,Paragoniolithon solubile,0.0031314703972450397
+Exometabolites,Montastrea faveolata,Porolithon pachydernum,0.6299702298464832
+Tissue metabolites,Montastrea faveolata,Hydrolithon borgesenii,9.109456366622748e-4
+Tissue metabolites,Montastrea faveolata,Paragoniolithon solubile,0.001090675837105537
+Tissue metabolites,Montastrea faveolata,Porolithon pachydernum,0.01711894168102268

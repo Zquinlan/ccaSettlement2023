@@ -1,0 +1,662 @@
+featureNumber,network,superclass,class,subclass,Compound_Name,FSW,PPL,size
+34,7002,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,AZELATE,63862.63250000001,172584.40333333332,5.237001545421328
+36,7002,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,AZELATE,65148.91,137912.15333333332,5.139602539511836
+37,7002,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,AZELATE,65892.57699999999,134789.82133333333,5.129657097646846
+111,3107,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,67626.14,70514.13833333334,4.848276203296972
+138,841,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,NA,48737.925,215047.15666666668,5.332533704727171
+148,7175,Organoheterocyclic compounds,Lactones,Gamma butyrolactones,NA,38706.834,234644.96333333332,5.370411236494319
+152,4585,Hydrocarbons,Unsaturated hydrocarbons,Olefins,NA,25482.5305,122722.1,5.0889227782428526
+177,702,Unknown,NA,NA,"Spectral Match to 9,12-Octadecadiynoic Acid from NIST14",20302.4915,158418.85333333333,5.199806865456722
+178,702,Unknown,NA,NA,"Spectral Match to 9,12-Octadecadiynoic Acid from NIST14",83520.853,213065.53333333333,5.328513201503097
+184,702,Unknown,NA,NA,"Spectral Match to 9,12-Octadecadiynoic Acid from NIST14",46405.773,366477.4766666666,5.564047288499758
+185,702,Unknown,NA,NA,"Spectral Match to 9,12-Octadecadiynoic Acid from NIST14",26157.599000000002,158509.26333333334,5.200054647607368
+186,702,Unknown,NA,NA,"Spectral Match to 9,12-Octadecadiynoic Acid from NIST14",43379.561,227568.95333333334,5.357113012047611
+282,9083,Unknown,NA,NA,NA,12816.7905,71370.054,4.8535160253528815
+315,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,3207965.5,17846975.333333332,7.251564623397829
+317,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,70238.3195,121577.38333333333,5.084852791983745
+318,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,135755.77000000002,1149883.6,6.06065387997428
+319,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,104836.78,762835.5866666667,5.882430944904203
+320,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,27142.803,184175.77333333335,5.265232502084377
+321,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,41005.354999999996,206826.04666666666,5.315605230801456
+332,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,4164.0205000000005,169690.48333333334,5.229657486680005
+334,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,3380.1179,110886.02066666666,5.044876798358319
+336,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,NA,2796.1222,241500.58333333334,5.382918184106752
+337,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,Massbank:LU046802 4-Pentylaniline,14502.889,526519.6,5.721414542688472
+338,108,Benzenoids,Benzene and substituted derivatives,Aniline and substituted anilines,Massbank:LU046802 4-Pentylaniline,3458.958,273238.86,5.436542464714509
+389,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,8632.0815,36382.94633333333,4.560897865824121
+490,1885,Lipids and lipid-like molecules,NA,NA,NA,50254.363,131876.562,5.120167616633907
+511,3496,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,NA,139699.18,556838.2933333333,5.745729093720881
+542,3054,Organic acids and derivatives,NA,NA,NA,142262.5128,97012.12833333333,4.986826032606183
+543,3054,Organic acids and derivatives,NA,NA,Yohimbinic acid monohydrate,405275.30000000005,3014285.2333333334,6.479184345988418
+544,3054,Organic acids and derivatives,NA,NA,NA,239319.15,2130953.8333333335,6.328574040917502
+545,3054,Organic acids and derivatives,NA,NA,NA,11192.146,183326.91333333333,5.2632262263051635
+546,3054,Organic acids and derivatives,NA,NA,NA,22832.0545,226210.27666666664,5.3545123309088245
+553,3107,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,85278.567,259049.40333333332,5.41338259631687
+554,3107,Lipids and lipid-like molecules,Fatty Acyls,Fatty acids and conjugates,NA,145536.315,214802.17666666667,5.332038677909886
+626,12836,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,NA,22049.874,54228.719,4.734229345578695
+627,12836,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,NA,343657.47,870644.8133333334,5.939841017154599
+629,12836,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,NA,673618.12,847365.48,5.92807076772388
+630,12836,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,NA,847742.95,1654032.1666666667,6.218543951208061
+632,12836,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,NA,82689.005,155139.26466666666,5.190721728632171
+765,702,Unknown,NA,NA,Spectral Match to (-)-Perillyl alcohol from NIST14,27910.4865,184078.88,5.265003963269781
+766,702,Unknown,NA,NA,Spectral Match to (-)-Perillyl alcohol from NIST14,57389.484,322450.0933333333,5.508462506980123
+767,702,Unknown,NA,NA,Spectral Match to (-)-Perillyl alcohol from NIST14,67620.939,615883.38,5.7894984845389
+768,702,Unknown,NA,NA,Spectral Match to (-)-Perillyl alcohol from NIST14,42373.479999999996,510561.93333333335,5.708048431385648
+769,702,Unknown,NA,NA,Spectral Match to (-)-Perillyl alcohol from NIST14,47822.947,270644.7833333333,5.432399660500121
+770,702,Unknown,NA,NA,Spectral Match to (-)-Perillyl alcohol from NIST14,34951.922,93426.93133333334,4.970472084404895
+771,702,Unknown,NA,NA,Spectral Match to (-)-Perillyl alcohol from NIST14,41722.294,75878.08866666666,4.880116382680853
+818,1063,Organic oxygen compounds,Organooxygen compounds,Ethers,NA,41580.375,74328.55333333333,4.871155680153083
+820,1063,Organic oxygen compounds,Organooxygen compounds,Ethers,NA,33834.3235,94095.69466666666,4.973569752807867
+833,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Spectral Match to Diethyl phthalate from NIST14,6819153.75,12956090.666666666,7.112473978539687
+839,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Spectral Match to Diethyl phthalate from NIST14,36035.747,111301.88533333334,5.046502520874946
+840,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Spectral Match to Diethyl phthalate from NIST14,27055.815000000002,70463.51066666667,4.847964277011265
+842,4679,Benzenoids,Phenol ethers,Anisoles,NA,74388.537,53756.994666666666,4.73043498109922
+843,4679,Benzenoids,Phenol ethers,Anisoles,NA,405495.6,581916.5166666667,5.764860684045781
+844,4679,Benzenoids,Phenol ethers,Anisoles,NA,97827.805,399908.86,5.601961026055214
+845,4679,Benzenoids,Phenol ethers,Anisoles,NA,25428.0235,144432.68866666668,5.159665495871596
+846,4679,Benzenoids,Phenol ethers,Anisoles,NA,56590.299,158770.19833333333,5.200768987297616
+849,702,Unknown,NA,NA,(3E)-4-(4-methoxyphenyl)but-3-en-2-one,98980.806,24252.889333333333,4.384763485073309
+850,702,Unknown,NA,NA,(3E)-4-(4-methoxyphenyl)but-3-en-2-one,74188.7485,54671.886666666665,4.737764061174977
+854,702,Unknown,NA,NA,Spectral Match to .delta.-Tocotrienol from NIST14,77433.6225,53903.86033333333,4.731619868367283
+855,702,Unknown,NA,NA,(3E)-4-(4-methoxyphenyl)but-3-en-2-one,68142.76000000001,97119.56333333334,4.98730672107107
+857,4679,Benzenoids,Phenol ethers,Anisoles,(3E)-4-(4-methoxyphenyl)but-3-en-2-one,47794.76,65901.05266666667,4.818892351827293
+859,4679,Benzenoids,Phenol ethers,Anisoles,(3E)-4-(4-methoxyphenyl)but-3-en-2-one,49108.157999999996,69516.15066666667,4.84208571582108
+862,702,Unknown,NA,NA,Spectral Match to .delta.-Tocotrienol from NIST14,41490.7345,51291.287333333334,4.710043599333777
+863,702,Unknown,NA,NA,NA,17882.188000000002,71317.22666666667,4.8531944462983025
+866,4679,Benzenoids,Phenol ethers,Anisoles,NA,71539.5525,118616.34733333334,5.0741445462577435
+881,3702,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,"3-(2-methylpropyl)-3a,4,5,6-tetrahydro-2-benzofuran-1(3h)-one",78939.447,163583.97333333333,5.213740752673673
+915,3350,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Massbank:FIO00397 Rebemide,2415231.65,11493466,7.060451015432033
+916,3350,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Massbank:FIO00397 Rebemide,612488.87,3224873.6999999997,6.508512710454338
+919,9610,Unknown,NA,NA,NA,60250.32000000001,219525.99,5.3414859443749405
+920,9610,Unknown,NA,NA,NA,51202.1565,271282.4766666667,5.433421741668869
+1031,14110,Unknown,NA,NA,NA,59656.906,226157.08666666667,5.354410200978722
+1063,3226,Unknown,NA,NA,NA,0,105943.45,5.025074111431053
+1107,14422,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,68035.712,79205.08333333333,4.898753055235599
+1179,10675,Unknown,NA,NA,NA,42500.9785,92467.56333333332,4.965989413432499
+1184,10675,Unknown,NA,NA,NA,49224.67999999999,82962.765,4.918883217877508
+1266,13671,Organic acids and derivatives,Carboxylic acids and derivatives,Monocarboxylic acids and derivatives,NA,11624.046999999999,84632.95199999999,4.927539489344266
+1297,841,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,NA,270345.625,342735.15,5.5349586467940926
+1299,841,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,NA,176318.20500000002,366666.9733333333,5.5642717936665225
+1336,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,75162.5675,36862.215,4.566581427827584
+1338,702,Unknown,NA,NA,NA,35117.72,104813.86933333334,5.020418753796561
+1339,702,Unknown,NA,NA,AC-LYS-OH - 40.0 eV,45141.2475,279432.1166666667,5.446276320495108
+1340,702,Unknown,NA,NA,AC-LYS-OH - 40.0 eV,48833.7135,179415.87333333332,5.253860863435589
+1341,702,Unknown,NA,NA,AC-LYS-OH - 40.0 eV,25215.6785,153995.088,5.1875068683136245
+1342,702,Unknown,NA,NA,AC-LYS-OH - 40.0 eV,55436.965,200391.19433333332,5.301878633679914
+1345,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,1084.56215,292251.43333333335,5.465756649815848
+1346,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,2485.8794,258841.88,5.413034545495174
+1347,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,7753.465,2317478.533333333,6.365015719991052
+1348,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,0,54185.132666666665,4.733880141029978
+1349,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,7753.465,586111.01,5.767979879609455
+1350,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,468.64273,240544.97333333333,5.381196285884581
+1443,702,Unknown,NA,NA,NA,34871.427500000005,310654.4533333333,5.492277583747396
+1446,702,Unknown,NA,NA,NA,74846.1895,944069.27,5.9750038613267344
+1448,702,Unknown,NA,NA,NA,182284.485,380056.4,5.579848050277945
+1454,702,Unknown,NA,NA,NA,63610.11,102324.10800000001,5.009977967415852
+1458,702,Unknown,NA,NA,NA,67827.689,79910.47066666666,4.902603688635924
+1476,702,Unknown,NA,NA,NA,22715.902000000002,87183.34333333334,4.940433519457724
+1478,702,Unknown,NA,NA,NA,46088.1875,55843.888666666666,4.746975652589201
+1479,702,Unknown,NA,NA,NA,54644.3615,130791.11666666667,5.116578247706431
+1480,702,Unknown,NA,NA,NA,33481.1335,91808.02333333333,4.962880636943394
+1486,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,561924.175,1015842.9866666667,6.0068265865956745
+1490,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,10290.35,36892.441666666666,4.566937399256857
+1491,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,1084053.5,1969738.8333333333,6.294408647094982
+1546,702,Unknown,NA,NA,NA,51878.0935,180876.24333333335,5.2573815294537
+1560,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,37363.9315,264840.5,5.422984399127102
+1561,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,893402.37,2446848.6,6.388607097991453
+1562,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,57749.099,309271.70666666667,5.49034019093566
+1575,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,204140.22499999998,145625.60666666666,5.163237747616012
+1576,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,293818.83999999997,177049.31333333332,5.248094246733087
+1580,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,313958.55000000005,973774.8333333334,5.988458546256603
+1581,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,31844.531000000003,85878.39333333334,4.933883910787562
+1584,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",64656.01,219008.40000000002,5.340460772391199
+1585,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",18708.728,126886.13666666666,5.103414174513426
+1586,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",1141985.8,5735517.833333333,6.758572634444204
+1587,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",13927.94,112640.14666666667,5.051693207285275
+1589,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,63488.9235,451900,5.655042341331201
+1590,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,243181.10499999998,2136710.3000000003,6.329745643530392
+1591,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",27651.650500000003,103393.462,5.014493077374027
+1593,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,80888.04000000001,918456.4533333334,5.963058569977298
+1594,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,39225.282999999996,156716.44466666668,5.195114570516271
+1595,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,52235.162,272179.07666666666,5.4348547364533895
+1597,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,53088.018,634574.2433333334,5.802482440589455
+1598,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,26869.6165,132069.08166666667,5.120801158014298
+1600,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",210146.76,2160995.8666666667,6.334653936209675
+1602,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,530239.275,2171488.7,6.336757573721083
+1603,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",1031053955,2692203776.6666665,9.430107929152415
+1615,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,2952201,8586459.833333334,6.933814142672628
+1616,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,74327.8175,358191.18666666665,5.554114895781236
+1617,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",520043.54500000004,2466976.7666666666,6.392165059438672
+1618,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,87828.2485,263615.89,5.420971584720641
+1619,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,67092.09,286473.05666666664,5.457083782005887
+1620,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",49389.148499999996,471602.6133333333,5.6735762030242
+1621,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",47815.807,298676.24666666664,5.4752006851023225
+1622,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",135590.705,216393.71333333332,5.335244639501527
+1623,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",120690.273,414648.72,5.617680329074918
+1624,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",426545.425,826171.8666666667,5.917070402018621
+1625,351,Benzenoids,Benzene and substituted derivatives,Toluenes,DEET,60981.11,312765.45666666667,5.495218781448333
+1626,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",152253.63199999998,565121.4633333333,5.7521418021310495
+1627,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",38739.335,373704.3333333333,5.572528133792489
+1628,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",160288.595,556992.2466666667,5.745849149835634
+1630,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",1371330,2821238.033333333,6.45043972997033
+1633,351,Benzenoids,Benzene and substituted derivatives,Toluenes,"MassbankEU:SM822301 DEET|N,N-diethyl-3-methylbenzamide",649781.0900000001,1000220.4333333333,6.0000957224304745
+1634,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,0,162452.50233333334,5.210726405377454
+1635,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,288775.54500000004,459894.79333333333,5.662658492767335
+1636,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,165280.56,466385.49,5.6687450303638265
+1637,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,34512.402,135113.40533333333,5.130698439869373
+1639,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,312255.31000000006,482763.1066666667,5.683734073390303
+1640,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,426785.75,885090.54,5.946987698959021
+1655,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,812634.525,1523129.0333333334,6.182736696567103
+1656,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,586803.3350000001,1792228,6.253393258028785
+1657,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,51584.237,176375.00666666665,5.246437043177976
+1659,351,Benzenoids,Benzene and substituted derivatives,Toluenes,NA,34646.34,171510.90666666668,5.234291742772601
+1714,8114,Organoheterocyclic compounds,Triazines,Aminotriazines,NA,668086.225,2581181.9,6.411818611046244
+1729,4975,Lipids and lipid-like molecules,Prenol lipids,NA,NA,32020.805,133444.27666666667,5.125299951931042
+1730,4975,Lipids and lipid-like molecules,Prenol lipids,NA,NA,35198.089,105326.65333333334,5.02253828505887
+1755,3226,Unknown,NA,NA,NA,0,348579.06999999995,5.542301306880707
+1756,3226,Unknown,NA,NA,NA,0,476182.49666666664,5.677773427732473
+1757,3226,Unknown,NA,NA,NA,0,231163.64333333334,5.363919530694385
+1758,3226,Unknown,NA,NA,NA,0,137702.77,5.138942676521377
+1760,3226,Unknown,NA,NA,NA,0,151170.82666666666,5.1794679879897005
+1784,3226,Unknown,NA,NA,NA,56029.519499999995,44822.888666666666,4.651499841747627
+1833,14422,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,125315.2875,248404.30333333332,5.3951591152474245
+1848,1500,Organoheterocyclic compounds,Azoles,NA,NA,0,136350.098,5.1346554544217184
+2019,6004,Unknown,NA,NA,NA,0,202368.17333333334,5.306142211564175
+2020,6004,Unknown,NA,NA,NA,0,67001.406,4.826083916307315
+2021,6004,Unknown,NA,NA,NA,981.36595,344926.49333333335,5.5377265532151325
+2022,6004,Unknown,NA,NA,NA,0,479545.62333333335,5.680829931672158
+2023,6004,Unknown,NA,NA,NA,0,213716.96166666667,5.329838991354119
+2095,841,Lipids and lipid-like molecules,Fatty Acyls,Fatty amides,Acadesine,241605.49,528425.2933333333,5.722983597156335
+2108,4354,Lipids and lipid-like molecules,Fatty Acyls,NA,HarmalolHCl2H2O///harmalol///Harmalol,39139.795,216987.31666666668,5.3364343492279716
+2109,4354,Lipids and lipid-like molecules,Fatty Acyls,NA,HarmalolHCl2H2O///harmalol///Harmalol,39276.314,194726.15666666668,5.28942429221349
+2119,126,Lipids and lipid-like molecules,NA,NA,NA,47705.471,26747.126666666667,4.427277134400767
+2120,1232,Organic acids and derivatives,Carboxylic acids and derivatives,Carboxylic acid derivatives,NA,28760.324999999997,110131.49666666667,5.0419115412454225
+2123,126,Lipids and lipid-like molecules,NA,NA,NA,34648.828499999996,68137.203,4.833384302014403
+2125,126,Lipids and lipid-like molecules,NA,NA,NA,28984.82,114795.02233333334,5.059923056876989
+2126,1438,Unknown,NA,NA,NA,33813.9305,153279.24333333335,5.1854833478346185
+2127,1438,Unknown,NA,NA,NA,28785.5395,75347.26666666666,4.877067502262927
+2143,702,Unknown,NA,NA,NA,27531.678,256114.75,5.408434590804017
+2147,702,Unknown,NA,NA,NA,41451.633,227139.72,5.356293086084381
+2149,702,Unknown,NA,NA,NA,94318.713,631559.8333333334,5.80041450145596
+2150,702,Unknown,NA,NA,NA,45864.007,96469.92366666667,4.984391934882112
+2159,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,72515.4815,2142388.02,6.330898131147378
+2160,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,18008.335,2098662.466666667,6.321942595489677
+2161,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,77392.826,4031006.533333333,6.605413502044968
+2162,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,0,82005.92666666667,4.913845240500998
+2163,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,23440.3135,425861.24,5.6292681143162016
+2178,3661,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,Zerumbone,28681.949500000002,65534.87766666667,4.816472493072625
+2179,3661,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,Zerumbone,33329.2175,171349.43733333334,5.233882682658914
+2181,702,Unknown,NA,NA,NA,26992.3865,54706.80933333333,4.738041386147695
+2255,702,Unknown,NA,NA,NA,68298.31,159853.11666666667,5.2037211081581605
+2280,702,Unknown,NA,NA,NA,37426.0705,1015791.0666666667,6.006804389124168
+2282,702,Unknown,NA,NA,NA,96991.0435,448040.27999999997,5.651317059969923
+2320,702,Unknown,NA,NA,NA,49898.140499999994,102633.3,5.011288293133015
+2344,7624,Unknown,NA,NA,NA,39183.5975,83044.95333333334,4.919313245383677
+2364,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,568526.5499999999,1117529.6133333333,6.04825904029333
+2408,702,Unknown,NA,NA,NA,72979.86499999999,151992.89333333334,5.18182328229825
+2420,702,Unknown,NA,NA,NA,0,84014.06166666668,4.924351981218387
+2429,2022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,86987.8825,137522.20333333334,5.138372821851211
+2432,2022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,136747.662,212792.59999999998,5.327956521014712
+2436,2022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,57209.144,184664.57,5.266383579092163
+2437,2022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,36521.4635,145184.76,5.161921030997196
+2470,178,Unknown,NA,NA,NA,56754.955,147863.6,5.1698612756549664
+2472,178,Unknown,NA,NA,NA,384198.345,1343097.3666666667,6.128107497607868
+2474,178,Unknown,NA,NA,NA,941800.85,3369626.8000000003,6.527581803638177
+2476,178,Unknown,NA,NA,NA,251286.45,930572.0833333334,5.968750019789617
+2576,1508,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,42156.058000000005,80656.485,4.906639291582253
+2577,1508,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,110291.449,117841.00666666667,5.071296443847397
+2580,1508,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,37953.4435,82055.31466666666,4.914106715256959
+2582,1508,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,88540.945,206952.2033333333,5.315870054512641
+2584,1508,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,58372.3725,121457.871,5.084425664230514
+2607,4001,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,"Massbank:FIO00378 N,N-Diethyl-3-methoxybenzamide",99638.788,678917.5,5.831817003335579
+2608,4001,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,"Massbank:FIO00378 N,N-Diethyl-3-methoxybenzamide",417252.70999999996,1719937.9,6.235512766573709
+2621,10015,Unknown,NA,NA,NA,132954.39,371696.11333333334,5.570188019888539
+2637,3226,Unknown,NA,NA,NA,1156.245175,295975.73,5.471256100385907
+2638,3226,Unknown,NA,NA,NA,4568.38135,497916.4066666667,5.697156436794452
+2639,3226,Unknown,NA,NA,NA,1585.6914,292306.68,5.465838740277006
+2640,3226,Unknown,NA,NA,NA,1517.31125,91468.69166666667,4.961272467146585
+2641,3226,Unknown,NA,NA,NA,1147.735425,524566.2133333334,5.7198003147800085
+2642,3226,Unknown,NA,NA,NA,0,116058.33133333334,5.06467632206226
+2676,10015,Unknown,NA,NA,NA,38430.479,69563.10166666667,4.842378938004149
+2693,1111,Lipids and lipid-like molecules,NA,NA,NA,241685.065,1178187.3533333333,6.071214356706692
+2694,1111,Lipids and lipid-like molecules,NA,NA,NA,168627.765,422928.14333333337,5.626266585803541
+2695,1111,Lipids and lipid-like molecules,NA,NA,NA,689593.158,888973.3166666667,5.948888725426522
+2697,1111,Lipids and lipid-like molecules,NA,NA,NA,99980.17,603313.5133333333,5.780543052981534
+2707,3226,Unknown,NA,NA,NA,85486.344,173752.30666666667,5.239930578821607
+2710,1111,Lipids and lipid-like molecules,NA,NA,NA,462419.55000000005,687371.3133333334,5.837191403388923
+2711,1111,Lipids and lipid-like molecules,NA,NA,NA,296707.775,868792.8133333334,5.93891621976942
+2712,1111,Lipids and lipid-like molecules,NA,NA,NA,1075710.15,1991915.1666666667,6.299270838388343
+2713,1111,Lipids and lipid-like molecules,NA,NA,NA,174825.75,297667.82333333336,5.4737318917376685
+2714,1111,Lipids and lipid-like molecules,NA,NA,NA,671415.25,1035212.9333333333,6.0150296891749075
+2809,3689,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,27137.228499999997,110798.00133333333,5.044531926297344
+2825,3689,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,56816.883499999996,92112.40533333333,4.964318123193683
+2830,3689,Lipids and lipid-like molecules,Fatty Acyls,NA,NA,98378,141204.00833333333,5.149847025131792
+2841,331,Lipids and lipid-like molecules,NA,NA,NA,9214.2228,167268.83666666667,5.223415036453305
+2846,331,Lipids and lipid-like molecules,NA,NA,NA,22119.855499999998,116672.49166666667,5.066968472792373
+2847,331,Lipids and lipid-like molecules,NA,NA,NA,27415.646,99970.28666666667,4.999870937457603
+2892,12968,Unknown,NA,NA,Massbank:LU130202 N-Ethyl-4-menthane-3-carboxamide|N-Ethyl-p-menthane-3-carboxamide|N-ethyl-5-methyl-2-propan-2-ylcyclohexane-1-carboxamide,74357.025,193752.77333333332,5.287247927615732
+2949,10110,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,NA,60272.904500000004,399388.81,5.601395892724639
+2950,10110,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,NA,1041215.05,4798753.833333333,6.681128472048066
+2951,10110,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,NA,35862.231999999996,212661.41666666666,5.327688702649586
+2952,6406,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,NA,21341.2675,162159.77333333332,5.209943128629258
+2969,2425,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,57310.7785,134923.17333333334,5.130086547051325
+3067,5096,Organic acids and derivatives,NA,NA,NA,73541.53749999999,318254.32666666666,5.5027743165980745
+3068,5096,Organic acids and derivatives,NA,NA,NA,16863.90635,63253.577,4.801085089965428
+3069,5096,Organic acids and derivatives,NA,NA,NA,134441.31,260051.32466666665,5.4150590703544905
+3072,5096,Organic acids and derivatives,NA,NA,NA,16428.8125,107774.95999999999,5.032517870340285
+3103,126,Lipids and lipid-like molecules,NA,NA,NA,93653.694,52424.12,4.719531149059142
+3104,126,Lipids and lipid-like molecules,NA,NA,NA,85694.16200000001,125156.00666666665,5.097451697728402
+3112,126,Lipids and lipid-like molecules,NA,NA,NA,47724.966499999995,33933.62633333333,4.530630273214294
+3116,126,Lipids and lipid-like molecules,NA,NA,NA,21494.761,73597.48066666667,4.866862948151476
+3119,702,Unknown,NA,NA,Isoalantolactone,29774.858500000002,193335.41,5.286311403739984
+3120,12279,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,Isoalantolactone,92495.37299999999,275371.56,5.439919084893824
+3122,12279,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,Isoalantolactone,48747.26,89565.87666666666,4.952142581112608
+3131,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,14434.6403,430440.0966666667,5.633912720255873
+3132,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,40349.3465,1032766.9433333332,6.014002328640936
+3133,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,508.200865,74201.25,4.870411221499104
+3134,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,109227.20999999999,3871870.1666666665,6.587920785917967
+3135,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,44041.8995,1556692.4,6.192202805130579
+3136,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,32669.402,1539115.7333333332,6.187271277699095
+3137,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,14590.961000000001,1056090.4066666667,6.023701097587805
+3138,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,4298.07075,465330.01666666666,5.667761068119417
+3379,4155,Unknown,NA,NA,NA,67275.70999999999,58782.16533333334,4.76924557995023
+3391,4155,Unknown,NA,NA,NA,77821.3465,109207.75333333334,5.038253472712583
+3394,4155,Unknown,NA,NA,NA,74074.975,86911.16666666667,4.939075579787592
+3399,4155,Unknown,NA,NA,NA,71107.34,121890.00666666667,5.0859681007994295
+3400,4155,Unknown,NA,NA,NA,90541.4075,223839.72333333333,5.349937160358613
+3401,4155,Unknown,NA,NA,NA,102529.572,366634.0466666667,5.56423279230348
+3516,1885,Lipids and lipid-like molecules,NA,NA,NA,33006.89,47277.067,4.674650525715278
+3563,1885,Lipids and lipid-like molecules,NA,NA,NA,60861.273,120418.65166666667,5.080693760082516
+3567,142,Lipids and lipid-like molecules,Prenol lipids,NA,NA,215909.055,667146.28,5.824221068746522
+3569,1885,Lipids and lipid-like molecules,NA,NA,NA,138219.775,287004.4866666667,5.457888686000002
+3583,142,Lipids and lipid-like molecules,Prenol lipids,NA,NA,263184.7,1075233.32,6.031502714106254
+3608,1508,Organic acids and derivatives,Hydroxy acids and derivatives,Medium-chain hydroxy acids and derivatives,NA,54122.587,166651.956,5.221810415356413
+3623,6840,Organoheterocyclic compounds,Benzodioxoles,NA,NA,39570.7835,69637.21233333333,4.842841377429747
+3624,6840,Organoheterocyclic compounds,Benzodioxoles,NA,NA,148872.17,294114.0333333333,5.468515746893429
+3667,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,MassbankEU:SM823305 Monoisobutyl phthalate|Isobutyl hydrogen phthalate|2-(2-methylpropoxycarbonyl)benzoic acid,39283.9745,52707.64366666666,4.721873601199999
+3670,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,MassbankEU:SM823305 Monoisobutyl phthalate|Isobutyl hydrogen phthalate|2-(2-methylpropoxycarbonyl)benzoic acid,100306.07750000001,149110.96,5.1735095662738315
+3735,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,45871.604,70607.60399999999,4.848851474386242
+3736,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,45349.122,112945.78533333333,5.052870029496067
+3767,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,43081.422999999995,123229.80333333334,5.090715755376204
+3770,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,50037.034,155558.82333333333,5.191894649429311
+3771,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,34857.9415,128568.13666666667,5.10913334973548
+3774,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,50593.482,136823.86333333334,5.136161848920433
+3775,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,124941.6625,234775.83333333334,5.370653390743653
+3959,3517,Organoheterocyclic compounds,Quinolines and derivatives,NA,NA,48868.72,261764.17,5.417910200517988
+4054,12719,Organoheterocyclic compounds,NA,NA,NA,151261.245,266831.7766666667,5.426237547917734
+4073,12719,Organoheterocyclic compounds,NA,NA,NA,114564.198,357273.85333333333,5.553001234034633
+4075,12719,Organoheterocyclic compounds,NA,NA,NA,368454.91000000003,278020.3433333333,5.444076575321546
+4086,7966,Lipids and lipid-like molecules,Prenol lipids,NA,NA,25272.998199999998,888452.8433333334,5.948634381580131
+4088,7966,Lipids and lipid-like molecules,Prenol lipids,NA,NA,34879.62,1589506.6333333333,6.2012623446534665
+4089,7966,Lipids and lipid-like molecules,Prenol lipids,NA,NA,43115.881,624784.8733333333,5.795730506292758
+4160,2582,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,48425.07399999999,128426.09666666666,5.108653282975299
+4228,5096,Organic acids and derivatives,NA,NA,NA,32266.042,176383.55333333334,5.246458087430866
+4260,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,60889.1885,63697.40633333333,4.8041217488494175
+4268,3695,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",L-Prolyl-L-isoleucine,160580.23,652385.2866666666,5.814504157776679
+4314,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,6373.7575,191271.07666666666,5.281649302522066
+4316,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,8211.90135,675016.5,5.82931438878861
+4317,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,31887.405000000002,791730.4533333334,5.898577350080877
+4318,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,135491,2413823.2666666666,6.382705469107961
+4319,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,38147.523499999996,2377331.5666666664,6.3760897570464685
+4320,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,40445.935,2339681.3333333335,6.369156710145508
+4339,10315,Unknown,NA,NA,NA,12078.464,44832.33466666667,4.651591355561072
+4342,10315,Unknown,NA,NA,NA,215770.485,193500.80333333334,5.286682772365316
+4618,583,Lipids and lipid-like molecules,NA,NA,NA,114911.497,37670.841,4.57600531591822
+4637,583,Lipids and lipid-like molecules,NA,NA,NA,80361.5925,65707.634,4.817615829399558
+4638,583,Lipids and lipid-like molecules,NA,NA,NA,63263.664000000004,74732.86133333333,4.873511610618113
+4639,1084,Unknown,NA,NA,NA,23421.055500000002,151903.71,5.181568380925668
+4666,583,Lipids and lipid-like molecules,NA,NA,NA,63930.534999999996,59611.344,4.775328913562469
+4675,1084,Unknown,NA,NA,NA,113708.67,215990.53666666665,5.334434723542227
+4680,583,Lipids and lipid-like molecules,NA,NA,NA,509431.655,1468924.7,6.166999533562437
+4681,583,Lipids and lipid-like molecules,NA,NA,NA,26706.8925,89258.24,4.950648319141034
+4809,8085,Organoheterocyclic compounds,Heteroaromatic compounds,NA,NA,33790.424,68115.47366666666,4.833245780997818
+4811,8085,Organoheterocyclic compounds,Heteroaromatic compounds,NA,NA,188115.603,393860.3433333333,5.595342255146472
+4813,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,57386.456999999995,79920.82333333333,4.902659949283011
+4839,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,115898.41,209562.44666666666,5.321313460245605
+4841,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,90871.6215,398775.34,5.600728293990026
+5035,9321,Lipids and lipid-like molecules,Prenol lipids,NA,NA,23332.4,52345.323000000004,4.718877883989422
+5049,9321,Lipids and lipid-like molecules,Prenol lipids,NA,NA,73628.85,105187.90066666667,5.02196578757531
+5070,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,"Massbank:AC000103 5-hydroxyculmorin|(1S,3R,3aS,4R,6R,8aR,9R)-Decahydro-1,5,5,8a-tetramethyl-1,4-methanoazulene-3,6,9-triol",34470.146,92661.48333333334,4.966899248147788
+5075,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,"Massbank:AC000103 5-hydroxyculmorin|(1S,3R,3aS,4R,6R,8aR,9R)-Decahydro-1,5,5,8a-tetramethyl-1,4-methanoazulene-3,6,9-triol",98515.11499999999,152061.33666666667,5.182018803751721
+5079,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,"Massbank:AC000102 5-hydroxyculmorin|(1S,3R,3aS,4R,6R,8aR,9R)-Decahydro-1,5,5,8a-tetramethyl-1,4-methanoazulene-3,6,9-triol",136739.18,489530.73333333334,5.6897799625295304
+5080,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,"Massbank:AC000102 5-hydroxyculmorin|(1S,3R,3aS,4R,6R,8aR,9R)-Decahydro-1,5,5,8a-tetramethyl-1,4-methanoazulene-3,6,9-triol",151815.515,310184.69,5.4916203582338525
+5081,3317,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,"Massbank:AC000103 5-hydroxyculmorin|(1S,3R,3aS,4R,6R,8aR,9R)-Decahydro-1,5,5,8a-tetramethyl-1,4-methanoazulene-3,6,9-triol",277243.145,501921.2033333333,5.7006355425562525
+5178,621,Unknown,NA,NA,NA,265463.405,912443.2666666666,5.960205870674174
+5179,621,Unknown,NA,NA,NA,114232.44,24681514.666666668,7.392371808164705
+5224,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,49495.4735,99104.13433333334,4.9960917723530915
+5226,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,56220.369999999995,69578.701,4.842476316423669
+5229,954,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,53622.0435,63197.024,4.800696627478442
+5239,954,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,Massbank:AC000098 Culmorin,51287.68,102149.36333333333,5.0092356641482825
+5242,954,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,Massbank:AC000098 Culmorin,45572.398,126279.17333333334,5.101331730189242
+5243,954,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,Massbank:AC000098 Culmorin,45377.496,155174.66333333333,5.190820811813941
+5244,954,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,113914.215,213309.988,5.329011191275631
+5389,261,Lipids and lipid-like molecules,Prenol lipids,NA,NA,78644.80099999999,619073.4166666666,5.791742155583171
+5391,261,Lipids and lipid-like molecules,Prenol lipids,NA,NA,19739.284,2097223.533333333,6.32164472236777
+5399,261,Lipids and lipid-like molecules,Prenol lipids,NA,NA,29815.8065,68913.27333333333,4.8383028790953775
+5564,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,53949.231499999994,58075.473333333335,4.763992758123019
+5606,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,22144.624,92321.26,4.965301723100575
+5607,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,21927.9695,303416.85333333333,5.482039700070977
+5608,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,27635.5135,273720.72,5.437307673701943
+5610,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,31753.542500000003,1356747.55,6.13249904600796
+5612,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,90684.7075,2793135.9,6.446092066808862
+5613,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,109491.4115,2259651.5666666664,6.354041477049972
+5615,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,10465.662849999999,141110.46,5.149559207602037
+5642,9894,Unknown,NA,NA,NA,44160.3915,59999.206,4.778145503181972
+5645,9894,Unknown,NA,NA,NA,26973.3975,54780.05433333333,4.738622458671049
+5646,9894,Unknown,NA,NA,NA,87319.455,183747.38,5.264221155322738
+6009,10874,Lipids and lipid-like molecules,NA,NA,NA,19356.3915,60383.38033333333,4.780917421688421
+6013,10874,Lipids and lipid-like molecules,NA,NA,NA,34531.044,63333.956666666665,4.801636620584138
+6015,10874,Lipids and lipid-like molecules,NA,NA,NA,57708.375,69782.27433333333,4.843745119802842
+6017,10874,Lipids and lipid-like molecules,NA,NA,NA,57708.375,119969.53333333333,5.079070969504577
+6176,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,36463.285,130616.66333333333,5.115998585301097
+6183,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,41752.477,169350.05333333334,5.2287853377528295
+6186,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,98999.52,134505.27333333332,5.128739311362023
+6194,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,52843.946500000005,92121.11833333333,4.964359201578858
+6202,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,57399.2985,111526.59,5.0473784235595085
+6306,583,Lipids and lipid-like molecules,NA,NA,NA,84596.33499999999,275142.43666666665,5.439557579080384
+6315,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,336394.405,1131470.55,6.053643254588636
+6316,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,253872.03,999866.72,5.999942113373802
+6349,2741,Lipids and lipid-like molecules,NA,NA,NA,14270.1335,100515.73866666667,5.002234068531949
+6351,2741,Lipids and lipid-like molecules,NA,NA,NA,14260.4955,67740.96033333334,4.830851349151114
+6380,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,"Massbank:RP019702 Dipropylphthalate|Dipropyl phthalate|dipropyl benzene-1,2-dicarboxylate",38870.162,55710.332,4.745935746600502
+6409,1752,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,98613.75200000001,165919.91999999998,5.219898529645454
+6412,6580,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,148473.47,347247.9733333333,5.540639719714999
+6413,1752,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,40123.0175,176474.42333333334,5.246681771423024
+6418,6580,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,447930.68,785437.1666666666,5.8951114481138465
+6422,590,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,124809.26000000001,312685.12666666665,5.4951072238709555
+6427,590,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,70133.51,152016.04,5.181889415023477
+6442,2957,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,86326.9615,168611.13,5.226886238960398
+6445,141,Lipids and lipid-like molecules,NA,NA,(3aR)-(+)-Sclareolide,83933.493,125412.739,5.098341652893504
+6448,141,Lipids and lipid-like molecules,NA,NA,(3aR)-(+)-Sclareolide,114132.753,304728.2453333333,5.483912710946936
+6590,4661,Unknown,NA,NA,NA,166063.25199999998,549175.2933333333,5.7397109906725845
+6602,621,Unknown,NA,NA,NA,32259.629,256860.62666666668,5.409697537773911
+6603,621,Unknown,NA,NA,NA,30107.7875,40859.990333333335,4.611298259550945
+6628,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,"Massbank:AC000282 Walleminone|(1R,4S,5S,6R,9R)-5,6-dihydroxy-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undecan-3-one",37942.8635,90958.56,4.958843576250872
+6633,2957,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,74968.514,223054.53666666668,5.348411060705917
+6637,2957,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,296199.685,380143.29,5.579947329054806
+6639,2957,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,438410.8,840306.4,5.924437671259641
+6640,2957,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,122718.945,253467.78333333333,5.403922766786881
+6642,2957,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,"Massbank:AC000280 Walleminone|(1R,4S,5S,6R,9R)-5,6-dihydroxy-4,11,11-trimethyl-8-methylidenebicyclo[7.2.0]undecan-3-one",53521.2755,214808.63666666666,5.3320517387652755
+6643,2957,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,128884.955,310089.49333333335,5.491487051420626
+6803,6481,Unknown,NA,NA,NA,278377.9,901903.98,5.9551603034223275
+7029,6051,Benzenoids,Benzene and substituted derivatives,NA,NA,58582.185,124149.52799999999,5.09394507276384
+7069,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,35650.271,72847.884666666665,4.862416945386283
+7110,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,35521.773,53953.698,4.732021216691854
+7114,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,31447.006500000003,2309471.066666667,6.36351252572276
+7115,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,18618.576,900703.1566666667,5.954581684804945
+7592,11973,Unknown,NA,NA,NA,107496.57999999999,244793.72333333333,5.388800278029713
+7594,11973,Unknown,NA,NA,NA,87895.68,76945.436,4.886182864858872
+7784,14752,Unknown,NA,NA,NA,53916.24800000001,99718.193,4.998774400023882
+7801,9109,Unknown,NA,NA,NA,19817.894500000002,67686.41533333334,4.830501514508308
+7803,9109,Unknown,NA,NA,NA,7909.7587,78111.91333333333,4.892717275879301
+7806,14752,Unknown,NA,NA,NA,33781.7655,59165.201,4.772066344268693
+7869,988,Benzenoids,NA,NA,"Massbank:EA256709 Tramadol|(1R,2R)-2-(dimethylaminomethyl)-1-(3-methoxyphenyl)-1-cyclohexanol",45348.4255,309746.645,5.491006611042039
+7871,988,Benzenoids,NA,NA,MassbankEU:ET190105 VEN_264.1959_10.8|O-Desmethylvenlafaxine|4-[2-(dimethylamino)-1-(1-hydroxycyclohexyl)ethyl]phenol,78027.03700000001,72833.82566666667,4.862333122288296
+7872,988,Benzenoids,NA,NA,MassbankEU:ET190105 VEN_264.1959_10.8|O-Desmethylvenlafaxine|4-[2-(dimethylamino)-1-(1-hydroxycyclohexyl)ethyl]phenol,139291.765,130897.88333333333,5.116932623906862
+7874,988,Benzenoids,NA,NA,MassbankEU:ET190105 VEN_264.1959_10.8|O-Desmethylvenlafaxine|4-[2-(dimethylamino)-1-(1-hydroxycyclohexyl)ethyl]phenol,88542.1505,236545.11333333334,5.373913980605724
+8011,6483,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,70868.628,290675.75,5.463408801703411
+8012,6483,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,45973.1125,149584.28333333333,5.174885965051321
+8272,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,26227.489999999998,62259.04533333333,4.794202457020378
+8273,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,40037.257,68771.14733333333,4.837406269890649
+8274,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,75920.5545,150686.86333333334,5.178075392788942
+8277,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,54440.07399999999,216480.29666666666,5.335418374415262
+8298,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,44900.4785,111766.23,5.048310601939451
+8440,896,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,19334.595,90794.338,4.958058766450307
+8443,896,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,19334.595,47421.13833333333,4.6759719749047495
+8466,896,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,3-[4-methyl-1-(2-methylpropanoyl)-3-oxocyclohexyl]butanoic acid,35827.0495,30330.279000000002,4.481876405286039
+8487,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,57695.375,180802.94999999998,5.257205512191721
+8489,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,42718.917,68901.39,4.838227983347984
+8754,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,54459.5785,96936.183,4.986485914760847
+8790,126,Lipids and lipid-like molecules,NA,NA,NA,18094.2505,91071.71333333333,4.959383507040464
+8805,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,Dehydroepiandrosterone,31470.299,172782.64333333334,5.237500113819088
+8818,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,26507.6505,375710.58666666667,5.574853432662899
+8819,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,32259.3325,564109.6866666666,5.751363557321143
+8820,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,92971.8945,1540206.1333333333,6.187578848484718
+8917,5185,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,36502.631,78874.916,4.896938909738645
+9169,1109,Organoheterocyclic compounds,Piperidines,NA,NA,2513.8773499999998,66227.18866666667,4.821036319708408
+9519,5333,Organic oxygen compounds,Organooxygen compounds,NA,NA,25405.75,179514.59666666668,5.254099767644434
+9528,5333,Organic oxygen compounds,Organooxygen compounds,NA,NA,44532.948000000004,192349.13333333333,5.284090233848454
+9531,5333,Organic oxygen compounds,Organooxygen compounds,NA,NA,135566.6575,337873.61666666664,5.528754280607593
+9532,5333,Organic oxygen compounds,Organooxygen compounds,NA,NA,106271.3175,311901.22,5.494017073501073
+9533,5333,Organic oxygen compounds,Organooxygen compounds,NA,NA,38428.25,77581.23533333333,4.889756690631124
+9562,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,363466.595,320914.48,5.506389313362946
+9565,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,1712050,2786100.7666666666,6.444996819774913
+9566,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,1472346.4500000002,2355456.0666666664,6.37207500830587
+9568,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,190369.865,434934.62666666665,5.638423984744259
+9573,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,243000.84500000003,383591.81333333335,5.58386932982788
+9576,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,83729.242,170538.67666666667,5.231822888654352
+9578,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,155930.055,199549.82333333333,5.3000513476279725
+9579,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,217661.37,146401.658,5.16554599513886
+9581,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,NA,19537.858,93028.09999999999,4.96861415104468
+9583,5333,Organic oxygen compounds,Organooxygen compounds,NA,NA,84866.22750000001,306475.6066666667,5.486395913400434
+9792,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,Spectral Match to Dibutyl phthalate from NIST14,5366493.5,10579966.333333334,7.0244842857264995
+9799,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,MoNA:936691 DBP,54874.743,216638.772,5.335736185247594
+9802,847,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,50423.085,221995.89333333334,5.34634494058051
+9881,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,335199.545,804388.3966666666,5.905465797255405
+10098,96,Unknown,NA,NA,NA,40099.18949999999,112907.71,5.052723599109453
+10104,96,Unknown,NA,NA,NA,59891.8865,137745.07333333333,5.139076074584363
+10145,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,75672.946,125135.94,5.097382060309075
+10146,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,101427.175,134443.228,5.1285389313915895
+10147,3022,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,96690.54999999999,116934.75,5.067943591491922
+10148,2059,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,55144.508,224046.358,5.350337888604524
+10151,2059,Lipids and lipid-like molecules,Fatty Acyls,Lineolic acids and derivatives,NA,176183.95500000002,508386.72,5.706194197456229
+10154,96,Unknown,NA,NA,NA,34863.219,76875.21333333333,4.8857863339784116
+10155,96,Unknown,NA,NA,NA,95601.56,111078.298,5.045629216641137
+10378,896,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,29848.2595,89339.78266666667,4.951044891646204
+10380,896,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,16936.1985,59125.199,4.77177261547029
+10387,896,Lipids and lipid-like molecules,Prenol lipids,Monoterpenoids,NA,20704.3675,78236.80833333333,4.89341112511934
+10434,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,38963.9975,80996.32433333334,4.908465310755549
+10439,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,72843.63500000001,101307.14,5.005640054968629
+10440,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,44619.398499999996,86867.583,4.938857737889574
+10580,1801,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,MassbankEU:SM825201 Tris(2-chloroethyl)phosphate|Tris(2-chloroethyl) phosphate,38833.052500000005,278897.50666666665,5.445444631706894
+10670,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,32412.0365,60394.13333333334,4.780994753443886
+10672,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,92179.7475,112667.24,5.051797655571626
+10673,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,35120.600999999995,133874.36,5.1266974076559135
+10677,126,Lipids and lipid-like molecules,NA,NA,NA,51790.3925,143918.39133333333,5.158116295981178
+10694,126,Lipids and lipid-like molecules,NA,NA,NA,12265.4985,63282.66333333334,4.80128474872334
+10707,9804,Unknown,NA,NA,NA,11417.194500000001,69126.68766666666,4.839645747356132
+10738,409,Lipids and lipid-like molecules,Steroids and steroid derivatives,Androstane steroids,NA,12418.514,89023.35166666667,4.949503941136538
+10849,1801,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,38506.041,273156.24333333335,5.436411131316749
+10879,4999,Benzenoids,Benzene and substituted derivatives,Benzyl alcohols,NA,19680.354,52903.55766666667,4.723484878520042
+11108,1801,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,8807.84,72944.961,4.862995296428515
+11354,5589,Lipids and lipid-like molecules,NA,NA,NA,11291.878,111621.8,5.047749021618774
+11481,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,Octinoxate,30556.5995,122358.23866666667,5.0876332167365295
+11482,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,Octinoxate,30556.5995,50743.47233333333,4.7053801823104004
+11483,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,Octinoxate,60506.7015,219295.69133333332,5.341030098852442
+11486,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,Octinoxate,309897.08999999997,800885.82,5.903570604375664
+11488,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,Octinoxate,106339.055,141565.15,5.150956353456141
+11499,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,Octinoxate,200225.14,299516.29000000004,5.476420447642591
+11506,1876,Phenylpropanoids and polyketides,Cinnamic acids and derivatives,Cinnamic acid esters,Octinoxate,145787.51,131505.93666666665,5.118945358935109
+11510,583,Lipids and lipid-like molecules,NA,NA,NA,243301.15000000002,705901.3533333334,5.848744014513102
+11522,5159,Organic oxygen compounds,NA,NA,NA,196216.58,469182.4166666667,5.671341727894195
+11523,5159,Organic oxygen compounds,NA,NA,NA,301684.89,1265089.7333333334,6.102121331289998
+11741,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,51046.705,127642.03666666667,5.105993725214658
+12008,5333,Organic oxygen compounds,Organooxygen compounds,NA,NA,45450.320999999996,93202.52366666666,4.969427672007081
+12009,14342,Unknown,NA,NA,NA,65926.9,75200.33366666667,4.876219767576624
+12031,14342,Unknown,NA,NA,NA,50084.825,130132.00333333333,5.114384115638112
+12395,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,35210.5275,56729.065,4.753805625646724
+12396,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,NA,68554.95999999999,74517.59233333333,4.872258814377188
+12696,126,Lipids and lipid-like molecules,NA,NA,NA,48754.83,231712.522,5.364949504176491
+12999,444,Lipids and lipid-like molecules,NA,NA,"Spectral Match to (.+/-.)-9-Hydroxy-5Z,7E,11Z,14Z,17Z-eicosapentaenoic acid from NIST14",81744.237,226827.49333333335,5.355695693427667
+13001,444,Lipids and lipid-like molecules,NA,NA,"Spectral Match to (.+/-.)-9-Hydroxy-5Z,7E,11Z,14Z,17Z-eicosapentaenoic acid from NIST14",64384.4335,158442.42466666666,5.199871479852531
+13044,6479,Organosulfur compounds,Sulfoxides,NA,NA,0,311401.62666666665,5.493320876859308
+13543,10809,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,"NCGC00380617-01_C16H26O4_1-Oxaspiro[2.5]octan-6-ol, 5-methoxy-4-[(2R,3R)-2-methyl-3-(3-methyl-2-buten-1-yl)oxiranyl]-, (3R,4S,5S,6R)-",38703.9115,282988.9066666667,5.451769411256159
+13544,10809,Organic oxygen compounds,Organooxygen compounds,Alcohols and polyols,"NCGC00380617-01_C16H26O4_1-Oxaspiro[2.5]octan-6-ol, 5-methoxy-4-[(2R,3R)-2-methyl-3-(3-methyl-2-buten-1-yl)oxiranyl]-, (3R,4S,5S,6R)-",81355.9005,241341.21666666667,5.382631497798955
+13590,6388,Unknown,NA,NA,NA,56500.4065,128893.993,5.110232677882942
+13637,5159,Organic oxygen compounds,NA,NA,NA,289490.07999999996,1172254.4333333333,6.0690218838664745
+13639,5159,Organic oxygen compounds,NA,NA,NA,109527.17499999999,148619.64666666667,5.172076224464439
+13862,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,22442.122499999998,42071.503333333334,4.623988030859549
+13865,259,Benzenoids,Benzene and substituted derivatives,Benzoic acids and derivatives,NA,39386.1155,93040.05,4.968669935111603
+13919,6077,Lipids and lipid-like molecules,Fatty Acyls,Eicosanoids,Spectral Match to 15-HEDE from NIST14,55284.9115,119618.24833333334,5.077797438397627
+14013,583,Lipids and lipid-like molecules,NA,NA,NA,109048.67,307301.69,5.4875649486574725
+14506,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,"(E)-4-[(1R,2S,3S,4R,8aS)-2,3,4-trihydroxy-2,5,5,8a-tetramethyl-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]but-3-en-2-one",73125.1175,124839.97333333333,5.096353667225053
+14509,1572,Lipids and lipid-like molecules,Prenol lipids,Sesquiterpenoids,"(E)-4-[(1R,2S,3S,4R,8aS)-2,3,4-trihydroxy-2,5,5,8a-tetramethyl-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]but-3-en-2-one",93441.916,83771.821,4.923097956073364
+14796,1176,Unknown,NA,NA,NA,103879.15,619925.36,5.792339402899054
+14797,1176,Unknown,NA,NA,NA,103507.88500000001,560541.0333333333,5.748607409790877
+14822,5704,Lipids and lipid-like molecules,Steroids and steroid derivatives,Pregnane steroids,"MassbankEU:SM874701 Dydrogesterone|(8S,9R,10S,13S,14S,17S)-17-acetyl-10,13-dimethyl-1,2,8,9,11,12,14,15,16,17-decahydrocyclopenta[a]phenanthren-3-one",34718.5965,80186.492,4.904101214369488
+15179,12767,Unknown,NA,NA,NA,35920.844,108625.762,5.035932836004336
+15180,12767,Unknown,NA,NA,NA,35920.844,107894.362,5.032998751297719
+15339,1293,Benzenoids,NA,NA,NA,141827.045,344166.2866666667,5.5367683260969285
+15472,6142,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,19988.1565,66768.726,4.824573089630989
+15473,6142,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,56859.337,72711.186,4.861601228525791
+15643,1293,Benzenoids,NA,NA,NA,124838.125,345066.95666666667,5.53790337359341
+15800,444,Lipids and lipid-like molecules,NA,NA,NA,129706.065,474768.39999999997,5.676481805138631
+15808,444,Lipids and lipid-like molecules,NA,NA,NA,64616.8125,205042.20799999998,5.311843269907815
+15812,444,Lipids and lipid-like molecules,NA,NA,NA,34258.733,96792.83,4.985843187817027
+16314,4999,Benzenoids,Benzene and substituted derivatives,Benzyl alcohols,"1-[4,5-bis(hydroxymethyl)-3-methoxy-2-methylphenoxy]-3-methylbutane-2,3-diol",32571.885000000002,93321.35333333333,4.9699810282457735
+16342,5852,Benzenoids,Phenols,1-hydroxy-2-unsubstituted benzenoids,NA,67904.9935,118013.04666666666,5.071930022408903
+16933,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,0327_Tris(1-chloro-2-propyl)phosphate,3155133.7,8571951.666666666,6.93307971358781
+16934,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,0327_Tris(1-chloro-2-propyl)phosphate,1923700.8,7225246.166666667,6.858852648245711
+17277,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,2982844.9,8518354.666666666,6.930355718218317
+17278,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,1898241.75,7000775.333333333,6.845146140634491
+17279,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,77597.6065,228521.48333333334,5.358927034403874
+17402,4650,Unknown,NA,NA,NA,5559.058,60107.90866666666,4.778931617831756
+17558,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,932267.725,2655862.6,6.424205603224089
+17559,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,608509.5,2278306.7666666666,6.357612200033189
+17560,2629,Organic acids and derivatives,Organic phosphoric acids and derivatives,Phosphate esters,NA,47660.2655,219916.0833333333,5.342256992196144
+17638,1512,Lipids and lipid-like molecules,NA,NA,NA,48268.023499999996,514611.3566666667,5.711479366179115
+17656,486,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,NA,86175.5775,215779.37666666668,5.33400993419365
+17659,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,ingenol,104180.95499999999,472481.88666666666,5.674385163805067
+17660,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,ingenol,114898.785,766107.8933333333,5.884289936968902
+18053,6746,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"NCGC00347406-02!5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid [IIN-based on: CCMSLIB00000847900]",124780.91,404569.88666666666,5.606993553814901
+18058,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"NCGC00347406-02!5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid [IIN-based on: CCMSLIB00000847900]",84900.53,695663.9066666666,5.842399471314913
+18060,6746,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"NCGC00347406-02!5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid [IIN-based on: CCMSLIB00000847900]",48728.867,1017341.7333333334,6.007466860466117
+18069,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"NCGC00347406-02!5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid [IIN-based on: CCMSLIB00000847900]",238566.61,1031746.4233333333,6.013572972020702
+18081,444,Lipids and lipid-like molecules,NA,NA,NA,21935.9565,70662.71166666667,4.849190299377819
+18085,444,Lipids and lipid-like molecules,NA,NA,NA,63730.497,253866.01333333334,5.4046045629856945
+18087,444,Lipids and lipid-like molecules,NA,NA,NA,53859.6055,196272.92666666667,5.2928603983765985
+18090,444,Lipids and lipid-like molecules,NA,NA,NA,28083.785,109359.55466666666,5.03885673303194
+20018,635,Organic nitrogen compounds,Organonitrogen compounds,Amines,NA,8868.0445,115228.09400000001,5.061558378233632
+20026,635,Organic nitrogen compounds,Organonitrogen compounds,Amines,NA,4143.7437,129069.04000000001,5.110822079836842
+20062,1293,Benzenoids,NA,NA,NA,565572.37,690563.4566666667,5.839203592565521
+20063,1293,Benzenoids,NA,NA,NA,309162.15,381935.38666666666,5.581989898022712
+20400,1293,Benzenoids,NA,NA,NA,551326.6699999999,640240.52,5.806343156617751
+20401,1293,Benzenoids,NA,NA,NA,297642.925,349543.27999999997,5.543500957196047
+20563,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,54769.354999999996,277700.2,5.443576192529751
+20570,1293,Benzenoids,NA,NA,NA,22188.0455,231609.04066666667,5.364755507710903
+20576,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,86504.84,461205.20666666667,5.663894201514766
+20605,1293,Benzenoids,NA,NA,NA,39705.86,438327.56,5.641798777931237
+21266,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid",128606.51000000001,354786.4633333333,5.549967041227929
+21285,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid",58896.1305,370153.2766666667,5.568381598191958
+21289,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid",60637.678,603359.2033333334,5.780575941625842
+21291,3352,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,"5-(4-carboxy-3-methylbutyl)-5,6,8a-trimethyl-3-oxo-4a,6,7,8-tetrahydro-4H-naphthalene-1-carboxylic acid",163247.785,560132.2166666667,5.748290552347694
+22824,7808,Lipids and lipid-like molecules,Fatty Acyls,Fatty alcohols,NA,3490.7250000000004,195207.22,5.290495876589747
+23642,635,Organic nitrogen compounds,Organonitrogen compounds,Amines,NA,44674.954,1061667.5,6.025988522842061
+23983,583,Lipids and lipid-like molecules,NA,NA,NA,48413.9295,102862.12,5.012255470936011
+24870,4305,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,77878.2375,45599.22066666667,4.658957420228941
+24871,4305,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,187535.97,124668.76233333335,5.0957576479793705
+24887,4305,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,ingenol,35015.8025,37530.799,4.574387810285646
+24894,4305,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,32459.912,315206.5066666667,5.4985951738564225
+24897,4305,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,22733.4785,246493.84333333332,5.391806076393161
+25196,635,Organic nitrogen compounds,Organonitrogen compounds,Amines,NA,104465.965,2235809.1,6.349434719448773
+25198,635,Organic nitrogen compounds,Organonitrogen compounds,Amines,NA,233706.78999999998,4446366.066666666,6.648005215040607
+25201,635,Organic nitrogen compounds,Organonitrogen compounds,Amines,NA,17186.2315,136832.54866666667,5.13618941627991
+25293,9262,Lipids and lipid-like molecules,Prenol lipids,NA,NA,80075.53,167819.12666666668,5.224841456685844
+25296,1512,Lipids and lipid-like molecules,NA,NA,NA,29918.3295,254788.79333333333,5.406180322012891
+25300,9262,Lipids and lipid-like molecules,Prenol lipids,NA,NA,51535.8315,167445.70666666667,5.223874016642208
+25314,5704,Lipids and lipid-like molecules,Steroids and steroid derivatives,Pregnane steroids,11-alpha-Acetoxyprogesterone,39302.4565,69275.86666666667,4.840581967672553
+27096,11030,Lipids and lipid-like molecules,Steroids and steroid derivatives,Oxosteroids,NA,5057.75145,313007.9766666667,5.495555405208353
+27099,11030,Lipids and lipid-like molecules,Steroids and steroid derivatives,Oxosteroids,NA,4745.7072499999995,256396.22333333333,5.408911623820364
+27798,8997,Organic oxygen compounds,Organooxygen compounds,Carbonyl compounds,NA,15553.519,66662.65333333334,4.823882595629526
+28958,13490,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,16131.8685,86761.90666666668,4.938329087437516
+28963,13490,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,36643.9555,44434.924666666666,4.647724448218057
+30869,617,Lipids and lipid-like molecules,NA,NA,NA,18025.201500000003,60390.414333333334,4.7809680092748685
+30876,6481,Unknown,NA,NA,NA,95541.24299999999,1175665.82,6.070283892186732
+31423,635,Organic nitrogen compounds,Organonitrogen compounds,Amines,NA,7922.8045,70705.154,4.849451072526406
+32430,1198,Unknown,NA,NA,NA,5252.6704,43800.65266666666,4.641480581906383
+32433,1198,Unknown,NA,NA,NA,7149.61775,50239.67833333333,4.701046850106019
+32454,1198,Unknown,NA,NA,NA,9397.0275,84885.862,4.928835363192372
+32766,8612,Unknown,NA,NA,NA,144685.975,178424.95333333334,5.251455591840184
+32782,8612,Unknown,NA,NA,NA,58579.4115,95112.37666666666,4.978237033954229
+32908,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,11201.756,237676.5133333333,5.375986267829601
+32909,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,10591.933,174919.09,5.242837209302785
+33138,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,15852.9335,3350193.9,6.525069943533287
+33139,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,0,941709.1833333333,5.973916805581164
+33453,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,14394.0575,94283.384,4.974435161741045
+33457,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,2945.557,432542.51,5.636028796081033
+33459,5704,Lipids and lipid-like molecules,Steroids and steroid derivatives,Pregnane steroids,NA,9930.0388,382383.07333333336,5.58249865943923
+33465,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A21,199904.07749999998,20048968,7.302092022669905
+33467,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A21,25527.011,20515739.2,7.312087169594301
+33468,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A21,498815.42000000004,79515570,7.900452176493042
+33475,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,89366.291,34003.38133333333,4.531522105906707
+33794,7694,Organosulfur compounds,Thioethers,Aryl thioethers,NA,370573.03,987872.4666666667,5.994700881229353
+33795,7694,Organosulfur compounds,Thioethers,Aryl thioethers,NA,87263.185,243589.18333333332,5.386657999383892
+33796,7694,Organosulfur compounds,Thioethers,Aryl thioethers,NA,62713.944,689799.35,5.838722780794569
+34813,10261,Organic oxygen compounds,Organooxygen compounds,Ethers,NA,15270.6905,92180.16533333334,4.964637482735019
+35331,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,51143.024999999994,132603.83733333333,5.122556092006751
+35363,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,7073.5867,519091.99333333335,5.715244330211986
+35364,617,Lipids and lipid-like molecules,NA,NA,NA,4048.3398500000003,145195.235,5.161952363973147
+35365,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A19,25488.120000000003,618542.2666666667,5.79136938149614
+35366,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A19,2515.16795,321479.44666666666,5.507153212144884
+35367,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A19,19522.826,812677.02,5.90991797941778
+35368,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A19,16264.7,207022.2083333333,5.316016936950969
+35371,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,0,153498.402,5.1861038586002115
+35372,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,B21A19,700.48305,106962.20999999999,5.029230367523277
+35687,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,1053.34865,228320.12333333335,5.358544190366628
+35688,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,4206.63815,295602.73333333334,5.470708445507956
+35690,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,1067.9148,194561.58000000002,5.289057084435235
+35692,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,6310.830800000001,457453.7166666667,5.660347160450368
+35693,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,5124.21715,394551.825,5.5961040565524724
+35694,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,2382.0003500000003,134283.335,5.12802211865068
+35695,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,4948.9678,292947.87333333335,5.46679034957702
+35971,11514,Unknown,NA,NA,NA,707.8235,95950.091,4.982045390960798
+36000,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,Axistatin1/2,0,291228.92,5.464234499668407
+36002,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,Axistatin1/2,0,675559.27,5.829663457732195
+36004,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,Axistatin1/2,0,391577.54000000004,5.592817773698518
+36005,11514,Unknown,NA,NA,B21A03,4342.455550000001,830234.583,5.919200819735411
+36555,1156,Unknown,NA,NA,NA,51658.897,101234.275,5.005327576962203
+36565,1156,Unknown,NA,NA,NA,73719.864,58825.261666666665,4.769563867682087
+36583,1156,Unknown,NA,NA,NA,3182.5773500000005,226406.71666666667,5.354889306650515
+36584,1156,Unknown,NA,NA,NA,134989.905,395972.43,5.597664948764678
+37298,3891,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,NA,6841.26915,248993.08666666667,5.3961872890065825
+37299,3891,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,NA,6841.26915,226124.37333333332,5.354347376293509
+37564,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,91377.805,78364.519,4.894119472245813
+37567,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,79361.26699999999,117736.589,5.070911449516439
+37580,19,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,13832.7683,68463.536,4.8354593257926615
+37582,19,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,18442.6025,91968.761,4.96364033572386
+37594,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,701.3257,345777.5233333333,5.538796759297758
+37595,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,18738.583,926506.4166666666,5.966848431440427
+37596,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,3266.5733,561840.9333333333,5.749613376861277
+37597,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,3266.5733,589294.26,5.770332210885635
+37785,7744,Lipids and lipid-like molecules,Prenol lipids,Terpene lactones,NA,27893.7965,126044.36333333333,5.100523428925871
+37862,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,753.27765,149559.73866666667,5.1748146976180225
+37904,1198,Unknown,NA,NA,NA,48214.0815,63053.45366666667,4.799708879446724
+37908,1198,Unknown,NA,NA,NA,20674.5235,115643.16333333333,5.063119962965941
+37940,1198,Unknown,NA,NA,NA,75855.773,290078.6433333333,5.462515755607525
+37941,1198,Unknown,NA,NA,NA,69232.1715,185545.45233333332,5.268450314380074
+38030,4251,Unknown,NA,NA,NA,104829.347,98097.71,4.991658869296649
+38069,4251,Unknown,NA,NA,NA,4712.532,3874572.2,6.588223758084707
+38177,2161,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,75282.938,191461.8,5.28208213755215
+38331,577,Lipids and lipid-like molecules,NA,NA,NA,71308.4235,44377.757,4.6471653477576345
+38350,577,Lipids and lipid-like molecules,NA,NA,NA,26808.022,36292.386,4.5598155213163
+39207,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,4234.369,321533.7416666667,5.507226554400933
+39213,413,Lipids and lipid-like molecules,Prenol lipids,Diterpenoids,NA,1386.28205,168521.91333333333,5.226656381296203
+39779,11796,Organic oxygen compounds,Organooxygen compounds,Carbohydrates and carbohydrate conjugates,NA,22913.941,226692.13666666666,5.355436455894035
+39824,617,Lipids and lipid-like molecules,NA,NA,NA,21999.971,58999.77066666666,4.770850323533758
+40003,3891,Lipids and lipid-like molecules,Glycerophospholipids,Glycerophosphoethanolamines,Spectral Match to 1-(9Z-Octadecenoyl)-sn-glycero-3-phosphoethanolamine from NIST14,0,79661.66433333333,4.901249375676523
+40192,1117,Phenylpropanoids and polyketides,NA,NA,NA,6350.380499999999,155357.68166666667,5.191332731829595
+40219,577,Lipids and lipid-like molecules,NA,NA,NA,20019.3975,39887.36833333333,4.600835383614575
+40856,577,Lipids and lipid-like molecules,NA,NA,NA,93062.42,185434.74333333335,5.268191107501723
+41675,6798,Benzenoids,Naphthalenes,Nitronaphthalenes,NA,0,5773839.2,6.761464684718737
+41751,617,Lipids and lipid-like molecules,NA,NA,NA,86525.997,28956.426666666666,4.4617449672385545
+41892,3912,Unknown,NA,NA,NA,48814.918,768700.4713333333,5.885757147359632
+42579,577,Lipids and lipid-like molecules,NA,NA,NA,135928.07,245483.96333333332,5.3900231263436105
+42590,10263,Organoheterocyclic compounds,Naphthopyrans,NA,NA,34002.402,101968.42633333334,5.008465716939053
+42768,1117,Phenylpropanoids and polyketides,NA,NA,NA,35387.9,1612515.0466666666,6.207503775805796
+42769,1117,Phenylpropanoids and polyketides,NA,NA,NA,30479.113,830285.684,5.91922754977029
+42863,3912,Unknown,NA,NA,NA,26197.052000000003,855716.2166666667,5.932329762376244
+43723,577,Lipids and lipid-like molecules,NA,NA,NA,153190.155,257847.78333333335,5.41136340221456
+44009,2538,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,16042.8935,854635.4366666666,5.931780896472894
+44499,577,Lipids and lipid-like molecules,NA,NA,NA,114560.01000000001,271683.0933333333,5.434062613388466
+44721,3912,Unknown,NA,NA,NA,8330.08475,293379.29333333333,5.467429458149325
+44888,217,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,11247.7565,43760.616,4.641083426751287
+44890,217,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,10701.672999999999,58151.37066666667,4.76455995579627
+44893,217,Organic acids and derivatives,Carboxylic acids and derivatives,"Amino acids, peptides, and analogues",NA,10245.3887,178549.24333333332,5.25175801405356
+44921,577,Lipids and lipid-like molecules,NA,NA,NA,94129.995,187598.18666666668,5.2732286361514324
+45048,1199,"Nucleosides, nucleotides, and analogues",Purine nucleotides,Purine ribonucleotides,NA,0,5216027.046666667,6.717339834677015
+45128,11716,Organic acids and derivatives,NA,NA,NA,21374.957000000002,360161.94,5.556497816975153
+45294,577,Lipids and lipid-like molecules,NA,NA,NA,56852.49,144680.05333333334,5.1604086601833625
+45461,11716,Organic acids and derivatives,NA,NA,NA,1271.15525,180851.99333333332,5.257323299876164
+45462,11716,Organic acids and derivatives,NA,NA,NA,1553.3949,213527.9233333333,5.329454676347551
+45577,577,Lipids and lipid-like molecules,NA,NA,NA,35059.995,108271.09999999999,5.0345125490956315
+45732,577,Lipids and lipid-like molecules,NA,NA,NA,11064.9138,81143.26,4.90925245187176
